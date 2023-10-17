@@ -2,3 +2,15 @@ header{
     background-color: #2C3F50;
     color: white;
 }
+
+#b-turquoise{
+    background-color: #1ABC9D;
+}
+
+.img-size{
+    width: 50%;
+}
+
+.c-white{
+    color: white;
+}
