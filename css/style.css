@@ -3,14 +3,29 @@ header{
     color: white;
 }
 
+.img-size{
+    width: 50%;
+}
+
 .b-turquoise{
     background-color: #1ABC9D;
 }
-
-.img-size{
-    width: 50%;
+.b-steel-blue{
+    background-color: #3B546D;
 }
 
 .c-white{
     color: white;
 }
+
+.turquoise{
+    color: #23AE96;
+}
+.b-navy-blue{
+    background-color: #2C3F50;
+}
+
+
+
+
+
